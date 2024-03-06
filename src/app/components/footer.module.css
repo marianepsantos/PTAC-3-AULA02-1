@@ -1,9 +1,12 @@
 .rodape{
     display: flex;
     height: 100px;
-    background-color: rgb(183, 159, 190);
+    background-color: rgb(235, 243, 231);
+    display:flex;
+    justify-content:center;
 }
 
-.rodape h1{
+.rodape{
     margin-top: 0px;
+
 }

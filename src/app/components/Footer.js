@@ -9,13 +9,13 @@ export default function Footer() {
             <Link href= "https://ead.ifms.edu.br/">  
 
             <Image
-             width={100}
-             height={100}
+             width={80}
+             height={80}
              src={"https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg"}
             
             />
             </Link>
-            <h1>Footer</h1>
+            <h1></h1>
             
         </footer>
     );
