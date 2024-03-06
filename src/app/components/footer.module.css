@@ -1,0 +1,9 @@
+.rodape{
+    display: flex;
+    height: 100px;
+    background-color: rgb(183, 159, 190);
+}
+
+.rodape h1{
+    margin-top: 0px;
+}
