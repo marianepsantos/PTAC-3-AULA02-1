@@ -1,9 +1,12 @@
 .Erro{
-    display:fles;
-    justify-content: center;
-    color:black;
     display: flex;
-    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
     background-color: rgb(235, 243, 231);
+    border: 1px solid #000000;
+    display: inline-block;
+    width: 250px;
+    height: 150px;
 }
 
